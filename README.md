@@ -6,6 +6,12 @@
 - Evaluar el desempeño de las empresas 
 - Identificar estaciones problematicas
 - Desempeño por region
+## Tecnologias
+- Python
+- Vs code
+- pandas
+- matplotlib
+- scipy
 
 ## Hallazgos
 - Los intentos de llamadas  con relacion a las llamadas exitosas son proporcionales esto quiere decir los servicios de comunicaciones son buenos ya que el numero de llamadas casi siempre son exitosas
